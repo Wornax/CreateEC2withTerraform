@@ -59,6 +59,9 @@ Para evitar custos não planejados, não se esqueça de destruir os recursos cri
 ![image](https://github.com/Wornax/CreateEC2withTerraform/assets/105296448/4eed2e1d-d078-41af-9a6f-f042f25f6ec8)
 
 
+Instancia criada!!
+![image](https://github.com/Wornax/CreateEC2withTerraform/assets/105296448/3f9098d7-cde6-47e4-a47c-795d80cc15f1)
+
 
 Isso deve formatar corretamente o texto com os comandos e as instruções de contribuição em Markdown. Se precisar de mais alguma coisa, estou à disposição para ajudar!
 
